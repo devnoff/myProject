@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const title = 'Hello World!! Auto Deployment Test Again! 06/08';
+const title = 'Hello World!!!';
 
 ReactDOM.render(
   <div>{title}</div>, 
